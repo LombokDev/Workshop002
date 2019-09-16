@@ -6,3 +6,7 @@
  - Streaming tidak full karena persiapan dan koneksi
  -  
 
+
+## Todo
+- Sertifikat Peserta (Bintang)
+- Surat untuk pemateri (Imam)
